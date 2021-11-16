@@ -1,0 +1,11 @@
+sudo: required # ask for super user permissions
+services:
+  - docker # ask to insstall a copy of docker into the container
+
+before_install: # commands that are exec before the tests
+  - "docker build -t danielcordeirodev/docker-react -f Dockerfile.dev ."
+
+script: # commands to run the test suite
+  - "docker run -e CI=true danielcordeirodev/docker-react yarn test -- --coverage"
+
+language: generic
