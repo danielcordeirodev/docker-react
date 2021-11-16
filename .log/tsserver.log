@@ -1,0 +1,13 @@
+Info 0    [12:15:28.106] Starting TS Server
+Info 1    [12:15:28.112] Version: 4.4.4
+Info 2    [12:15:28.112] Arguments: /Users/dan/.nvm/versions/node/v16.13.0/bin/node /Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /Users/dan/code/udemy-docker/frontend/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/kk/x3fs_fj96gj3qcs0w17x04wm0000gn/T/b5522134edf3d8a91120a1908c97b341/tscancellation*
+Info 3    [12:15:28.112] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [12:15:28.112] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [12:15:28.127] Search path: /Users/dan/code/udemy-docker/frontend/src
+Info 6    [12:15:28.128] For info: /Users/dan/code/udemy-docker/frontend/src/App.js :: No config files found.
+Info 7    [12:15:28.132] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [12:15:28.590] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 458.05781200004276ms
+Info 9    [12:15:28.590] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [12:15:28.591] 	Files (19)
+
+Info 11   [12:15:28.591] -----------------------------------------------

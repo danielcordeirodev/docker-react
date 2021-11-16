@@ -1,0 +1,125 @@
+[17:09:24.331] Global cache location '/Users/dan/Library/Caches/typescript/4.4', safe file path '/users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json
+[17:09:24.332] Processing cache location '/Users/dan/Library/Caches/typescript/4.4'
+[17:09:24.332] Trying to find '/Users/dan/Library/Caches/typescript/4.4/package.json'...
+[17:09:24.335] Loaded content of '/Users/dan/Library/Caches/typescript/4.4/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.567"},"devDependencies":{"@types/arr-diff":"^4.0.0","@types/arr-union":"^3.1.0","@types/array-unique":"^0.3.0","@types/atob":"^2.1.2","@types/babel-code-frame":"^6.20.5","@types/babel-core":"^6.25.7","@types/babel-generator":"^6.25.4","@types/babel-template":"^6.25.2","@types/babel-traverse":"^6.25.7","@types/babel-types":"^7.0.11","@types/babylon":"^6.16.6","@types/balanced-match":"^1.0.1","@types/bindings":"^1.5.1","@types/bootstrap":"^5.1.6","@types/brace-expansion":"^1.1.0","@types/braces":"^3.0.1","@types/component-emitter":"^1.2.11","@types/concat-map":"^0.0.1","@types/convert-source-map":"^1.5.2","@types/core-js":"^2.5.5","@types/debug":"^4.1.7","@types/decode-uri-component":"^0.2.0","@types/enquire.js":"^2.1.3","@types/esutils":"^2.0.0","@types/express":"^4.17.13","@types/fill-range":"^7.0.0","@types/fs-readdir-recursive":"^1.0.0","@types/get-value":"^3.0.2","@types/glob":"^7.2.0","@types/glob-base":"^0.3.0","@types/glob-parent":"^5.1.1","@types/graceful-fs":"^4.1.5","@types/has-ansi":"^5.0.0","@types/inherits":"^0.0.30","@types/invariant":"^2.2.35","@types/is-buffer":"^2.0.0","@types/is-data-descriptor":"^1.0.0","@types/is-dotfile":"^2.0.0","@types/is-finite":"^1.0.0","@types/is-glob":"^4.0.2","@types/is-number":"^7.0.1","@types/is-windows":"^1.0.0","@types/isarray":"^2.0.0","@types/jsesc":"^3.0.1","@types/json2mq":"^0.2.0","@types/kind-of":"^6.0.0","@types/lodash":"^4.14.176","@types/math-random":"^1.0.0","@types/micromatch":"^4.0.2","@types/minimatch":"^3.0.5","@types/minimist":"^1.2.2","@types/mkdirp":"^1.0.2","@types/ms":"^0.7.31","@types/normalize-path":"^3.0.0","@types/object-assign":"^4.0.30","@types/object.omit":"^3.0.0","@types/object.pick":"^1.3.1","@types/once":"^1.4.0","@types/os-homedir":"^1.0.0","@types/os-tmpdir":"^1.0.0","@types/parse-glob":"^3.0.29","@types/pascalcase":"^1.0.1","@types/path-is-absolute":"^1.0.0","@types/randomatic":"^3.1.3","@types/react":"^17.0.34","@types/react-dom":"^17.0.11","@types/react-slick":"^0.23.7","@types/readable-stream":"^2.3.11","@types/redis":"^2.8.32","@types/regenerator-runtime":"^0.13.1","@types/regex-not":"^1.0.0","@types/repeat-element":"^1.1.0","@types/repeat-string":"^1.6.2","@types/repeating":"^3.0.0","@types/safe-regex":"^1.1.3","@types/scheduler":"^0.16.2","@types/set-value":"^4.0.1","@types/source-map-support":"^0.5.4","@types/supports-color":"^8.1.1","@types/to-regex":"^3.0.0","@types/to-regex-range":"^5.0.0","@types/urix":"^0.1.0","@types/user-home":"^2.0.0","@types/util-deprecate":"^1.0.0","@types/v8flags":"^3.1.1"}}
+[17:09:24.335] Loaded content of '/Users/dan/Library/Caches/typescript/4.4/package-lock.json'
+[17:09:24.345] Adding entry into typings cache: 'arr-diff' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/arr-diff/index.d.ts'
+[17:09:24.348] Adding entry into typings cache: 'arr-union' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/arr-union/index.d.ts'
+[17:09:24.349] Adding entry into typings cache: 'array-unique' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/array-unique/index.d.ts'
+[17:09:24.352] Adding entry into typings cache: 'atob' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/atob/index.d.ts'
+[17:09:24.353] Adding entry into typings cache: 'babel-code-frame' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-code-frame/index.d.ts'
+[17:09:24.355] Adding entry into typings cache: 'babel-core' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-core/index.d.ts'
+[17:09:24.356] Adding entry into typings cache: 'babel-generator' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-generator/index.d.ts'
+[17:09:24.357] Adding entry into typings cache: 'babel-template' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-template/index.d.ts'
+[17:09:24.360] Adding entry into typings cache: 'babel-traverse' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-traverse/index.d.ts'
+[17:09:24.362] Adding entry into typings cache: 'babel-types' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babel-types/index.d.ts'
+[17:09:24.363] Adding entry into typings cache: 'babylon' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/babylon/index.d.ts'
+[17:09:24.365] Adding entry into typings cache: 'balanced-match' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/balanced-match/index.d.ts'
+[17:09:24.366] Adding entry into typings cache: 'bindings' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/bindings/index.d.ts'
+[17:09:24.371] Adding entry into typings cache: 'bootstrap' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/bootstrap/index.d.ts'
+[17:09:24.372] Adding entry into typings cache: 'brace-expansion' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/brace-expansion/index.d.ts'
+[17:09:24.373] Adding entry into typings cache: 'braces' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/braces/index.d.ts'
+[17:09:24.374] Adding entry into typings cache: 'component-emitter' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/component-emitter/index.d.ts'
+[17:09:24.377] Adding entry into typings cache: 'concat-map' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/concat-map/index.d.ts'
+[17:09:24.378] Adding entry into typings cache: 'convert-source-map' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/convert-source-map/index.d.ts'
+[17:09:24.380] Adding entry into typings cache: 'core-js' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/core-js/index.d.ts'
+[17:09:24.382] Adding entry into typings cache: 'debug' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/debug/index.d.ts'
+[17:09:24.384] Adding entry into typings cache: 'decode-uri-component' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/decode-uri-component/index.d.ts'
+[17:09:24.387] Adding entry into typings cache: 'enquire.js' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/enquire.js/index.d.ts'
+[17:09:24.388] Adding entry into typings cache: 'esutils' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/esutils/index.d.ts'
+[17:09:24.391] Adding entry into typings cache: 'express' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/express/index.d.ts'
+[17:09:24.393] Adding entry into typings cache: 'fill-range' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/fill-range/index.d.ts'
+[17:09:24.394] Adding entry into typings cache: 'fs-readdir-recursive' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/fs-readdir-recursive/index.d.ts'
+[17:09:24.395] Adding entry into typings cache: 'get-value' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/get-value/index.d.ts'
+[17:09:24.397] Adding entry into typings cache: 'glob' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/glob/index.d.ts'
+[17:09:24.399] Adding entry into typings cache: 'glob-base' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/glob-base/index.d.ts'
+[17:09:24.400] Adding entry into typings cache: 'glob-parent' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/glob-parent/index.d.ts'
+[17:09:24.401] Adding entry into typings cache: 'graceful-fs' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/graceful-fs/index.d.ts'
+[17:09:24.402] Adding entry into typings cache: 'has-ansi' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/has-ansi/index.d.ts'
+[17:09:24.403] Adding entry into typings cache: 'inherits' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/inherits/index.d.ts'
+[17:09:24.403] Adding entry into typings cache: 'invariant' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/invariant/index.d.ts'
+[17:09:24.404] Adding entry into typings cache: 'is-buffer' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-buffer/index.d.ts'
+[17:09:24.406] Adding entry into typings cache: 'is-data-descriptor' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-data-descriptor/index.d.ts'
+[17:09:24.408] Adding entry into typings cache: 'is-dotfile' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-dotfile/index.d.ts'
+[17:09:24.409] Adding entry into typings cache: 'is-finite' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-finite/index.d.ts'
+[17:09:24.410] Adding entry into typings cache: 'is-glob' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-glob/index.d.ts'
+[17:09:24.411] Adding entry into typings cache: 'is-number' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-number/index.d.ts'
+[17:09:24.412] Adding entry into typings cache: 'is-windows' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/is-windows/index.d.ts'
+[17:09:24.412] Adding entry into typings cache: 'isarray' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/isarray/index.d.ts'
+[17:09:24.414] Adding entry into typings cache: 'jsesc' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/jsesc/index.d.ts'
+[17:09:24.415] Adding entry into typings cache: 'json2mq' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/json2mq/index.d.ts'
+[17:09:24.416] Adding entry into typings cache: 'kind-of' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/kind-of/index.d.ts'
+[17:09:24.419] Adding entry into typings cache: 'lodash' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/lodash/index.d.ts'
+[17:09:24.420] Adding entry into typings cache: 'math-random' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/math-random/index.d.ts'
+[17:09:24.422] Adding entry into typings cache: 'micromatch' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/micromatch/index.d.ts'
+[17:09:24.422] Adding entry into typings cache: 'minimatch' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/minimatch/index.d.ts'
+[17:09:24.424] Adding entry into typings cache: 'minimist' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/minimist/index.d.ts'
+[17:09:24.425] Adding entry into typings cache: 'mkdirp' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/mkdirp/index.d.ts'
+[17:09:24.426] Adding entry into typings cache: 'ms' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/ms/index.d.ts'
+[17:09:24.427] Adding entry into typings cache: 'normalize-path' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/normalize-path/index.d.ts'
+[17:09:24.428] Adding entry into typings cache: 'object-assign' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/object-assign/index.d.ts'
+[17:09:24.430] Adding entry into typings cache: 'object.omit' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/object.omit/index.d.ts'
+[17:09:24.431] Adding entry into typings cache: 'object.pick' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/object.pick/index.d.ts'
+[17:09:24.432] Adding entry into typings cache: 'once' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/once/index.d.ts'
+[17:09:24.433] Adding entry into typings cache: 'os-homedir' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/os-homedir/index.d.ts'
+[17:09:24.434] Adding entry into typings cache: 'os-tmpdir' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/os-tmpdir/index.d.ts'
+[17:09:24.435] Adding entry into typings cache: 'parse-glob' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/parse-glob/index.d.ts'
+[17:09:24.436] Adding entry into typings cache: 'pascalcase' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/pascalcase/index.d.ts'
+[17:09:24.437] Adding entry into typings cache: 'path-is-absolute' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/path-is-absolute/index.d.ts'
+[17:09:24.438] Adding entry into typings cache: 'randomatic' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/randomatic/index.d.ts'
+[17:09:24.442] Adding entry into typings cache: 'react' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/react/index.d.ts'
+[17:09:24.445] Adding entry into typings cache: 'react-dom' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/react-dom/index.d.ts'
+[17:09:24.446] Adding entry into typings cache: 'react-slick' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/react-slick/index.d.ts'
+[17:09:24.447] Adding entry into typings cache: 'readable-stream' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/readable-stream/index.d.ts'
+[17:09:24.450] Adding entry into typings cache: 'redis' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/redis/index.d.ts'
+[17:09:24.451] Adding entry into typings cache: 'regenerator-runtime' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/regenerator-runtime/index.d.ts'
+[17:09:24.452] Adding entry into typings cache: 'regex-not' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/regex-not/index.d.ts'
+[17:09:24.453] Adding entry into typings cache: 'repeat-element' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/repeat-element/index.d.ts'
+[17:09:24.453] Adding entry into typings cache: 'repeat-string' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/repeat-string/index.d.ts'
+[17:09:24.455] Adding entry into typings cache: 'repeating' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/repeating/index.d.ts'
+[17:09:24.456] Adding entry into typings cache: 'safe-regex' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/safe-regex/index.d.ts'
+[17:09:24.458] Adding entry into typings cache: 'scheduler' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/scheduler/index.d.ts'
+[17:09:24.459] Adding entry into typings cache: 'set-value' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/set-value/index.d.ts'
+[17:09:24.460] Adding entry into typings cache: 'source-map-support' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/source-map-support/index.d.ts'
+[17:09:24.461] Adding entry into typings cache: 'supports-color' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/supports-color/index.d.ts'
+[17:09:24.462] Adding entry into typings cache: 'to-regex' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/to-regex/index.d.ts'
+[17:09:24.464] Adding entry into typings cache: 'to-regex-range' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/to-regex-range/index.d.ts'
+[17:09:24.464] Adding entry into typings cache: 'urix' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/urix/index.d.ts'
+[17:09:24.465] Adding entry into typings cache: 'user-home' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/user-home/index.d.ts'
+[17:09:24.466] Adding entry into typings cache: 'util-deprecate' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/util-deprecate/index.d.ts'
+[17:09:24.467] Adding entry into typings cache: 'v8flags' => '/Users/dan/Library/Caches/typescript/4.4/node_modules/@types/v8flags/index.d.ts'
+[17:09:24.467] Finished processing cache location '/Users/dan/Library/Caches/typescript/4.4'
+[17:09:24.468] Process id: 2402
+[17:09:24.468] NPM location: /Users/dan/.nvm/versions/node/v16.13.0/bin/npm (explicit '--npmLocation' not  provided)
+[17:09:24.468] validateDefaultNpmLocation: false
+[17:09:24.468] Npm config file: /Users/dan/Library/Caches/typescript/4.4/package.json
+[17:09:24.468] Updating types-registry npm package...
+[17:09:24.468] Exec: /Users/dan/.nvm/versions/node/v16.13.0/bin/npm install --ignore-scripts types-registry@latest
+[17:09:25.513]     Succeeded. stdout:
+    
+    up to date, audited 102 packages in 763ms
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[17:09:25.513] Updated types-registry npm package
+[17:09:25.537] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/dan/code/udemy-docker/frontend/src/App.js","/Users/dan/code/udemy-docker/frontend/src/App.test.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@testing-library/react"],"projectRootPath":"/Users/dan/code/udemy-docker/frontend/src","kind":"discover"}
+[17:09:25.548] Loaded safelist from types map file '/users/dan/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json'
+[17:09:25.548] Explicitly included types: []
+[17:09:25.549] Inferred typings from unresolved imports: ["@testing-library/react"]
+[17:09:25.549] Result: {"cachedTypingPaths":[],"newTypingNames":["@testing-library/react"],"filesToWatch":["/Users/dan/code/udemy-docker/frontend/src/bower_components","/Users/dan/code/udemy-docker/frontend/src/node_modules"]}
+[17:09:25.549] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@testing-library/react"],"filesToWatch":["/Users/dan/code/udemy-docker/frontend/src/bower_components","/Users/dan/code/udemy-docker/frontend/src/node_modules"]}
+[17:09:25.550] DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/bower_components
+[17:09:25.550] DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:09:25.551] Elapsed:: 0.76281999994535ms DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:09:25.551] DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/node_modules
+[17:09:25.552] DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:09:25.552] Elapsed:: 0.07718999998178333ms DirectoryWatcher:: Added:: WatchInfo: /Users/dan/code/udemy-docker/frontend/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:09:25.552] Installing typings ["@testing-library/react"]
+[17:09:25.552] '@testing-library/react':: Entry for package 'testing-library__react' does not exist in local types registry - skipping...
+[17:09:25.552] All typings are known to be missing or invalid - no need to install more typings
+[17:09:25.552] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@testing-library/react"],"kind":"action::set"}
+[17:09:25.553] Response has been sent.
