@@ -1,13 +1,65 @@
-Info 0    [12:15:28.106] Starting TS Server
-Info 1    [12:15:28.112] Version: 4.4.4
-Info 2    [12:15:28.112] Arguments: /Users/dan/.nvm/versions/node/v16.13.0/bin/node /Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /Users/dan/code/udemy-docker/frontend/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/kk/x3fs_fj96gj3qcs0w17x04wm0000gn/T/b5522134edf3d8a91120a1908c97b341/tscancellation*
-Info 3    [12:15:28.112] Platform: darwin NodeVersion: 16 CaseSensitive: false
-Info 4    [12:15:28.112] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [12:15:28.127] Search path: /Users/dan/code/udemy-docker/frontend/src
-Info 6    [12:15:28.128] For info: /Users/dan/code/udemy-docker/frontend/src/App.js :: No config files found.
-Info 7    [12:15:28.132] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 8    [12:15:28.590] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 458.05781200004276ms
-Info 9    [12:15:28.590] Project '/dev/null/inferredProject1*' (Inferred)
-Info 10   [12:15:28.591] 	Files (19)
+Info 0    [10:47:57.993] Starting TS Server
+Info 1    [10:47:57.997] Version: 4.4.4
+Info 2    [10:47:57.997] Arguments: /Users/dan/.nvm/versions/node/v16.13.0/bin/node /Users/dan/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /Users/dan/code/udemy-docker/frontend/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/kk/x3fs_fj96gj3qcs0w17x04wm0000gn/T/bfbb1dd4c003b08f815ad6c1d4f465a8/tscancellation*
+Info 3    [10:47:57.997] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [10:47:57.997] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [10:47:58.014] Search path: /Users/dan/code/udemy-docker/frontend/src
+Info 6    [10:47:58.015] For info: /Users/dan/code/udemy-docker/frontend/src/App.js :: No config files found.
+Info 7    [10:47:58.021] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [10:47:58.520] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 499.3504520058632ms
+Info 9    [10:47:58.520] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [10:47:58.520] 	Files (19)
 
-Info 11   [12:15:28.591] -----------------------------------------------
+Info 11   [10:47:58.520] -----------------------------------------------
+Info 12   [10:48:19.289] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 13   [10:48:19.300] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 10.707104995846748ms
+Info 14   [10:48:19.300] Different program with same set of files
+Info 15   [10:48:20.472] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 16   [10:48:20.481] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 9.064256995916367ms
+Info 17   [10:48:20.481] Different program with same set of files
+Info 18   [10:48:21.033] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [10:48:21.039] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 5.658264994621277ms
+Info 20   [10:48:21.039] Different program with same set of files
+Info 21   [10:48:21.685] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 22   [10:48:21.691] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 6.5871590077877045ms
+Info 23   [10:48:21.691] Different program with same set of files
+Info 24   [10:48:22.052] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 25   [10:48:22.056] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 3.899608001112938ms
+Info 26   [10:48:22.056] Different program with same set of files
+Info 27   [10:48:23.217] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 28   [10:48:23.222] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 4.769983008503914ms
+Info 29   [10:48:23.222] Different program with same set of files
+Info 30   [10:48:31.666] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 31   [10:48:31.671] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 5.026413008570671ms
+Info 32   [10:48:31.672] Different program with same set of files
+Info 33   [10:48:31.673] getCompletionData: Get current token: 0.015584990382194519
+Info 34   [10:48:31.674] getCompletionData: Is inside comment: 0.008230000734329224
+Info 35   [10:48:31.674] getCompletionData: Get previous token: 0.09651899337768555
+Info 36   [10:48:31.674] getCompletionsAtPosition: isCompletionListBlocker: 0.32490700483322144
+Info 37   [10:48:31.674] Returning an empty list because completion was requested in an invalid position.
+Info 38   [10:48:31.682] getCompletionData: Get current token: 0.011785000562667847
+Info 39   [10:48:31.683] getCompletionData: Is inside comment: 0.006203010678291321
+Info 40   [10:48:31.683] getCompletionData: Get previous token: 0.04829999804496765
+Info 41   [10:48:31.683] getCompletionsAtPosition: isCompletionListBlocker: 0.02706100046634674
+Info 42   [10:48:31.683] Returning an empty list because completion was requested in an invalid position.
+Info 43   [10:48:31.683] getCompletionData: Get current token: 0.01103299856185913
+Info 44   [10:48:31.683] getCompletionData: Is inside comment: 0.005357995629310608
+Info 45   [10:48:31.683] getCompletionData: Get previous token: 0.10872100293636322
+Info 46   [10:48:31.683] getCompletionsAtPosition: isCompletionListBlocker: 0.008368998765945435
+Info 47   [10:48:31.683] Returning an empty list because completion was requested in an invalid position.
+Info 48   [10:48:31.683] getCompletionData: Get current token: 0.01440100371837616
+Info 49   [10:48:31.683] getCompletionData: Is inside comment: 0.005148008465766907
+Info 50   [10:48:31.684] getCompletionData: Get previous token: 0.043676987290382385
+Info 51   [10:48:31.684] getCompletionsAtPosition: isCompletionListBlocker: 0.011016994714736938
+Info 52   [10:48:31.684] Returning an empty list because completion was requested in an invalid position.
+Info 53   [10:48:32.136] Format host information updated
+Info 54   [10:48:37.068] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 55   [10:48:37.075] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 6.7691700011491776ms
+Info 56   [10:48:37.075] Different program with same set of files
+Info 57   [10:48:37.499] Format host information updated
+Info 58   [16:58:41.729] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 59   [16:58:41.735] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 5.739669010043144ms
+Info 60   [16:58:41.735] Different program with same set of files
+Info 61   [16:59:23.541] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 62   [16:59:23.551] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 10.32686199247837ms
+Info 63   [16:59:23.551] Different program with same set of files
